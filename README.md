@@ -1,7 +1,7 @@
 # 게시판 포트폴리오
 * * * 
 ## 1일차
-* 스프링 부트 기본 설정
+* Spring Initializr
     - Project : Maven
     - Language : Java
     - Spring Boot : 3.1.0
@@ -16,3 +16,9 @@
         + Spring Data JPA
         + H2 Database
         + Validation
+  
+* 스프링 부트 설정
+  * 오라클 driver / mysql driver
+  * querydsl 의존성 / 설정
+  * ModelMapper
+  
