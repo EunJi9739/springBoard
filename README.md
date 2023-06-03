@@ -21,4 +21,8 @@
   * 오라클 driver / mysql driver
   * querydsl 의존성 / 설정
   * ModelMapper
+
+* 타임리프 설정
+* 
+
   
